@@ -1,4 +1,4 @@
-/* program to find factoiral of a number. */
+/* program to find factorial of a number. */
 #include<iostream>
 using namespace std;
 int factorial(int num)
